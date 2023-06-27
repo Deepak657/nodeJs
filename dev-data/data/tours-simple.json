@@ -1,0 +1,62 @@
+[
+  {
+    "name": "The forest Hiker",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingAverage": 4.7,
+    "ratingQuantity": 37,
+    "price": 397,
+    "summary": "Brathtaking hike through the canadian Banff National park",
+    "discription": "ut enim ad minim vrniem the canadian is sp tom the market. the Brathtaking the most is pawerful.",
+    "startDates": ["2022-12-25,10:00", "2022-12-16,10:00", "2022-10-22,10:00"]
+  },
+  {
+    "name": "The Snow Adventurer",
+    "duration": 4,
+    "maxGroupSize": 22,
+    "difficulty": "hard",
+    "ratingAverage": 4.4,
+    "ratingQuantity": 36,
+    "price": 357,
+    "summary": "Brathtaking snow through the canadian Banff National park",
+    "discription": "ut enim ad minim vrniem the canadian is sp tom the market. the Brathtaking the most is pawerful.",
+    "startDates": ["2021-12-25,10:00", "2023-12-16,10:00", "2020-10-22,10:00"]
+  },
+  {
+    "name": "Adventurer",
+    "duration": 6,
+    "maxGroupSize": 21,
+    "difficulty": "hard",
+    "ratingAverage": 4.7,
+    "ratingQuantity": 36,
+    "price": 400,
+    "summary": "Brathtaking snow through the canadian Banff National park",
+    "discription": "ut enim ad minim vrniem the canadian is sp tom the market. the Brathtaking the most is pawerful.",
+    "startDates": ["2021-12-25,10:00", "2023-12-16,10:00", "2020-10-22,10:00"]
+  },
+  {
+    "name": "The Snow",
+    "duration": 2,
+    "maxGroupSize": 22,
+    "difficulty": "easy",
+    "ratingAverage": 4.4,
+    "ratingQuantity": 36,
+    "price": 557,
+    "summary": "Brathtaking snow through the canadian Banff National park",
+    "discription": "ut enim ad minim vrniem the canadian is sp tom the market. the Brathtaking the most is pawerful.",
+    "startDates": ["2021-12-25,10:00", "2023-12-16,10:00", "2020-10-22,10:00"]
+  },
+  {
+    "name": "Hiker",
+    "duration": 4,
+    "maxGroupSize": 22,
+    "difficulty": "hard",
+    "ratingAverage": 2.4,
+    "ratingQuantity": 46,
+    "price": 897,
+    "summary": "Brathtaking snow through the canadian Banff National park",
+    "discription": "ut enim ad minim vrniem the canadian is sp tom the market. the Brathtaking the most is pawerful.",
+    "startDates": ["2021-12-25,10:00", "2023-12-16,10:00", "2020-10-22,10:00"]
+  }
+]
